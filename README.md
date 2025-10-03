@@ -1,6 +1,6 @@
 # 🚀 User Management App
 
-A simple **React User Management Application** built for the **Frontend Internship Challenge @ LinkPlus IT**.  
+A simple **React User Management Application** 
 The app demonstrates **components, state management, routing, forms, and data fetching** in React.
 
 ---
