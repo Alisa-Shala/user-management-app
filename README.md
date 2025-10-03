@@ -52,18 +52,14 @@ git clone https://github.com/Alisa-Shala/user-management-app.git
 cd user-management-app
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Run development server:
 
-bash
-Copy code
+
 npm start
 Open http://localhost:3000 in your browser.
 
 Build for production:
 
-bash
-Copy code
 npm run build
